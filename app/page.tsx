@@ -369,10 +369,10 @@ export default function SpotPreview() {
 
         {/* Demo Instructions */}
         <div className="mt-8 bg-gradient-to-r from-blue-50 to-indigo-50 rounded-xl p-6 border border-blue-200">
-          <h3 className="text-lg font-semibold text-blue-800 mb-3">🎯 Interactive Demo Features</h3>
+          <h3 className="text-lg font-semibold text-blue-800 mb-3">Interactive Demo Features</h3>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-4 text-sm text-blue-700">
             <div>
-              <strong>✨ Try these features:</strong>
+              <strong>Try these features:</strong>
               <ul className="mt-2 space-y-1 ml-4">
                 <li>• Search for "John" or "Sarah"</li>
                 <li>• Filter by "Development" team</li>
@@ -381,7 +381,7 @@ export default function SpotPreview() {
               </ul>
             </div>
             <div>
-              <strong>🎨 Visual Elements:</strong>
+              <strong>Visual Elements:</strong>
               <ul className="mt-2 space-y-1 ml-4">
                 <li>• Color-coded seat states</li>
                 <li>• Real-time search highlighting</li>
